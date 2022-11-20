@@ -1,4 +1,4 @@
-# firts-term
+# Atm-Emulator (simple)
 This project has been developed for a first term project on C language
 Development process took some hours and contains a very simple ATM emulator based in C
 Programm defines a pin (1234) and the available amount of money 
